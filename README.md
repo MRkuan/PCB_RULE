@@ -1,0 +1,2 @@
+# PCB_RULE
+仿制 PCB 直尺 10CM
